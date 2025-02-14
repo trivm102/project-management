@@ -10,7 +10,7 @@
 (function() {
   var loadApp, loadJS, loadPlugin, loadPlugins, loadStylesheet, mainLoad, promise;
 
-  window._version = "v-1739350265129";
+  window._version = "v-1739495386691";
 
   window.taigaConfig = {
     "api": "http://localhost:8000/api/v1/",
